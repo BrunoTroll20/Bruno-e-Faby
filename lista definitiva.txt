@@ -135,11 +135,26 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/RVDLT04EP06.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg" group-title="alguns canais", fox
 blob:https://canaisgratis.org/c4ca7995-acde-4c44-92aa-2f3259bd550b
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="alguns canais", cartoon network
+blob:https://canaisgratis.org/d7b14e69-4dcf-4499-ad29-f5f6be3ecec7
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="alguns canais", globo rj
+blob:http://player.aovivo.club/5dfc72a2-a30d-4912-bfb8-9ad4896a103e
+
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/07/Nickelodeon-1.jpg" group-title="alguns canais", nickelodeon
+blob:http://player.aovivo.club/8bb95189-37b4-41a1-b30b-f77675b70964
+
+#EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels/logos/000/000/120/original/pic_warnerbros.png?1522179159" group-title="alguns canais", warner
+blob:http://player.aovivo.club/883014db-8d70-4e4a-9f44-b3849273454c
+
+#EXTINF:-1 tvg-logo="http://www.revistadagente.com.br/uploads/posts/486/7d04bbbe5494ae9d2f5a76aa1c00fa2f.jpg" group-title="alguns canais", sbt
+blob:http://player.aovivo.club/b82a1759-e86f-4987-acb3-3fe812d97f24
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="alguns canais", tooncast
+blob:http://player.aovivo.club/2909e318-1e2f-4d1b-af10-712032593610
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="alguns canais", dixney xD
+blob:http://player.aovivo.club/5efefd5b-9ccb-443a-bc08-b9f80aa3e1ee
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
 link
