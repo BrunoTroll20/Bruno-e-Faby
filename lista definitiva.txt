@@ -132,8 +132,8 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/RVDLT04EP05.mp4?attachment=true
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", Riverdale s04e06
 http://cdnfe2.azureedge.net/RCServer13/ondemand/RVDLT04EP06.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://pleno.news/wp-content/uploads/2019/09/Rede-Globo.jpg" group-title="globo", globo
+blob:https://canaisgratis.org/348cf7f1-26f2-46b4-b4c3-7ffd3477b4d1
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
 link
