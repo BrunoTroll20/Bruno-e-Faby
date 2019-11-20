@@ -65,3 +65,36 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMLGRSLNCOSO.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2019/04/redeglobo.jpg" group-title="sua globo molier", globo
 blob:https://cometa.top/e17c0f2c-4235-4ad6-a136-1e7dfa15e9ff
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/05/09/15/04/2523184.jpg" group-title="Faby filmes", O briquedo assassino
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/BRNQDASASNO.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://viatorrents.com/capas/jovens-titas-em-acao-vs-jovens-titas-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Faby filmes", jovens titans em ação vs jovens titans
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/JVNSTNSEMACOVSJVNSTAS.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/03/27/21/03/0464387.jpg" group-title="Faby filmes", toy story 4
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/TYSTRY4.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/be/Aladdin_%282019%29.jpg" group-title="Faby filmes",aladdin 2019
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ALDN.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Faby filmes", hellboy
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HLBOY.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
