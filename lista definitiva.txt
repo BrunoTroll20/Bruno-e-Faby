@@ -160,7 +160,7 @@ blob:http://player.aovivo.club/5efefd5b-9ccb-443a-bc08-b9f80aa3e1ee
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/SMSNHR.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="https://www.metalpiracicaba.com.br/wp-content/uploads/2018/09/adma.jpg" group-title="Faby filmes", como se fosse a primeira vez
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/CMSFSAPRMVZ.mp4?attachment=true
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/CMSFSAPRMVZ.mp4?attachment=truee
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/84/37/20324391.jpg" group-title="Faby filmes", as palavras
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ASPLVRS.mp4?attachment=true
