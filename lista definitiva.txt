@@ -156,29 +156,29 @@ blob:http://player.aovivo.club/2909e318-1e2f-4d1b-af10-712032593610
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="alguns canais", dixney xD
 blob:http://player.aovivo.club/5efefd5b-9ccb-443a-bc08-b9f80aa3e1ee
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/713906-287-426/123512911.jpg?v=636967871765600000" group-title="Faby filmes", sim senhor
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/SMSNHR.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://www.metalpiracicaba.com.br/wp-content/uploads/2018/09/adma.jpg" group-title="Faby filmes", como se fosse a primeira vez
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/CMSFSAPRMVZ.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/84/37/20324391.jpg" group-title="Faby filmes", as palavras
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ASPLVRS.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/01/07/21/33/0548962.jpg" group-title="Faby filmes",  a sereia- lago dos mortos
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/ASRIALGDSMRTS.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://www.gazetadopovo.com.br/viver-bem/wp-content/uploads/2017/03/a-bela-e-a-fera1-600x390.jpg" group-title="Faby filmes", a bela e a fera
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/ABLEAFR.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/19/02/16/19/26/1280625.jpg" group-title="Faby filmes", as trapaceiras
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ASTRPCRAS.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2014/04/20190501-40043562.jpg" group-title="Faby filmes", uma viagem extraordinaria
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/UMAVGMEXTRORDNRIA.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/06/19/11/3472306.jpg" group-title="Faby filmes", nasce uma estrela
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/NSCUMAESTLA.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
 link
