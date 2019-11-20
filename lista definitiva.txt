@@ -111,8 +111,26 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/SHRZM.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/21959-cartaz.jpg" group-title="Faby filmes", como treinar seu dragão 3
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CMTRNRDRG3.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/05/22/18/16/3339937.jpg" group-title="Faby filmes", holmes e watson
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/HLMSEWTSN.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", riverdale s04e01
+http://cdnfe2.azureedge.net/RCServer12/ondemand/RVDLT04EP01.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", riverdale s04e02
+http://cdnfe2.azureedge.net/RCServer12/ondemand/RVDLT04EP02.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", riverdale s04e03
+http://cdnfe2.azureedge.net/RCServer12/ondemand/RVDLT04EP03.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", riverdale s04e04
+http://cdnfe2.azureedge.net/RCServer12/ondemand/RVDLT04EP04.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", riverdale s04e05
+http://cdnfe2.azureedge.net/RCServer12/ondemand/RVDLT04EP05.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", riverdale s04e06
+http://cdnfe2.azureedge.net/RCServer12/ondemand/RVDLT04EP06.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
 link
