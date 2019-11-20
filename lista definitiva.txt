@@ -36,7 +36,6 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP01.mp4?attachment=tr
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e02 me ame molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP02.mp4?attachment=true
 
-
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e03 me ame molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP03.mp4?attachment=true
 
@@ -55,7 +54,6 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP07.mp4?attachment=tr
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e08 me ame molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP08.mp4?attachment=true
 
-
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e09 me ame molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP09.mp4?attachment=true
 
@@ -64,3 +62,6 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP10.mp4?attachment=tr
 
 #EXTINF:-1 tvg-logo="http://lojasaraiva.vteximg.com.br/arquivos/ids/302221/1005447107.jpg?v=636966596714000000" group-title="Faby filmes", um lugar silencioso
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMLGRSLNCOSO.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2019/04/redeglobo.jpg" group-title="sua globo molier", globo
+blob:https://multicanais.com/081a65b3-da47-4ba5-ab31-63d71b742b8e
