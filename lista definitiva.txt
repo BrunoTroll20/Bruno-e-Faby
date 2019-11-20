@@ -90,29 +90,26 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/ANGRYBRDS2FLM.mp4?attachment=tru
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/19/05/07/20/54/2901026.jpg" group-title="Faby filmes", o rei leao 2019
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/OREILEO.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c0/2019/10/09/coringa-1570627206677_v2_900x506.jpg" group-title="Faby filmes", coringa
-https://videa.hu/videok/film-animacio/joker-2019-dublado-0smO96LsTosQIp3O
+#EXTINF:-1 tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/22610-cartaz.jpg" group-title="Faby filmes", annabele 3
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ANBL3DVLTPCSA.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/05/31/19/44/2188384.jpg" group-title="Faby filmes", uma criança como jake
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/UMCRANCCMJKE.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcRc2EnNuNenGS0MExmfnC6WaZPhcQ7oqdyI4pxFIHYpKFhQ5n60" group-title="Faby filmes", brightburn filho das trevas
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/BRGBRNFLHDSTRVS.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/02/21/21/08/0402784.jpg" group-title="Faby filmes", a maldição da chorona
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/AMLDCAODCHRNA.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/01/17/16/28/3541107.jpg" group-title="Faby filmes", dumbo 2019
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/DMBO.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Shazam%21.jpg/250px-Shazam%21.jpg" group-title="Faby filmes", shazam
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/SHRZM.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
-
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/21959-cartaz.jpg" group-title="Faby filmes", como treinar seu dragão 3
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/CMTRNRDRG3.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
 link
