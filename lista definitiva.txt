@@ -81,11 +81,11 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/ALDN.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Faby filmes", hellboy
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/HLBOY.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/a-cinco-passos-de-voc-D_NQ_NP_892649-MLB31122419822_062019-F.jpg" group-title="Faby filmes", a cinco passos de você
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/ACNCPASDVC.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://hele235.com/wp-content/uploads/2016/11/images-1.jpg" group-title="Faby filmes", 500 dias com ela
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/500DSCMELA.mp4?SY84bUMwWP3b0
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
 link
