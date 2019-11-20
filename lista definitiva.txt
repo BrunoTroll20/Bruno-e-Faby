@@ -180,8 +180,8 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/UMAVGMEXTRORDNRIA.mp4?attachment
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/06/19/11/3472306.jpg" group-title="Faby filmes", nasce uma estrela
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/NSCUMAESTLA.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://a-static.mlcdn.com.br/618x463/jogador-no-1-dvd-warner-bros/variadocombr/zp13281a/1357c15baf714e96188c10848f34a516.jpg" group-title="Faby filmes", jogador º1
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/JGDRN1.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
 link
