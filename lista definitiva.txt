@@ -64,4 +64,4 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP10.mp4?attachment=tr
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMLGRSLNCOSO.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2019/04/redeglobo.jpg" group-title="sua globo molier", globo
-blob:https://multicanais.com/081a65b3-da47-4ba5-ab31-63d71b742b8e
+blob:https://cometa.top/e17c0f2c-4235-4ad6-a136-1e7dfa15e9ff
