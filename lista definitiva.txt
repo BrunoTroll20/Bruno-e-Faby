@@ -63,9 +63,6 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP10.mp4?attachment=tr
 #EXTINF:-1 tvg-logo="http://lojasaraiva.vteximg.com.br/arquivos/ids/302221/1005447107.jpg?v=636966596714000000" group-title="Faby filmes", um lugar silencioso
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMLGRSLNCOSO.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2019/04/redeglobo.jpg" group-title="sua globo molier", globo
-blob:https://cometa.top/e17c0f2c-4235-4ad6-a136-1e7dfa15e9ff
-
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/05/09/15/04/2523184.jpg" group-title="Faby filmes", O briquedo assassino
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/BRNQDASASNO.mp4?attachment=true
 
@@ -86,6 +83,81 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/ACNCPASDVC.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="http://hele235.com/wp-content/uploads/2016/11/images-1.jpg" group-title="Faby filmes", 500 dias com ela
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/500DSCMELA.mp4?SY84bUMwWP3b0
+
+#EXTINF:-1 tvg-logo="https://emc.acidadeon.com/dbimagens/programese/eQhxqXs03102019113538.jpg" group-title="Faby filmes", angry birds 2
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ANGRYBRDS2FLM.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/19/05/07/20/54/2901026.jpg" group-title="Faby filmes", o rei leao 2019
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OREILEO.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c0/2019/10/09/coringa-1570627206677_v2_900x506.jpg" group-title="Faby filmes", coringa
+https://videa.hu/videok/film-animacio/joker-2019-dublado-0smO96LsTosQIp3O
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
+link
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Faby filmes", titulo
 link
