@@ -1,63 +1,71 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s01e01 me ame molier
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s01e01 me valoriza molier
 http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP01.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s01e02 me ame molier
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s01e02 me valoriza molier
 http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP02.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s01e03 me ame molier
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s01e03 me valoriza molier
 http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP03.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s01e04 me ame molier
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s01e04 me valoriza molier
 http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP04.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s01e05 me ame molier
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s01e05 me valoriza molier
 http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP05.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s01e06 me ame molier
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s01e06 me valoriza molier
 http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP06.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s01e07 me ame molier
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s01e07 me valoriza molier
 http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP07.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s01e08 me ame molier
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s01e08 me valoriza molier
 http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP08.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s01e09 me ame molier
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s01e09 me valoriza molier
 http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP09.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s01e10 me ame molier
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s01e10 me valoriza molier
 http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP10.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e01 me ame molier
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s02e01 me valoriza molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP01.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e02 me ame molier
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s02e02 me valoriza molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP02.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e03 me ame molier
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s02e03 me valoriza molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP03.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e04 me ame molier
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s02e04 me valoriza molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP04.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e05 me ame molier
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s02e05 me valoriza molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP05.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e06 me ame molier
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s02e06 me valoriza molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP06.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e07 me ame molier
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s02e07 me valoriza molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP07.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e08 me ame molier
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s02e08 me valoriza molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP08.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e09 me ame molier
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s02e09 me valoriza molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP09.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me ame molier", westworld s02e10 me ame molier
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="me valoriza molier", westworld s02e10 me valoriza molier
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WSTWRLDT02EP10.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="http://lojasaraiva.vteximg.com.br/arquivos/ids/302221/1005447107.jpg?v=636966596714000000" group-title="Faby filmes", um lugar silencioso
