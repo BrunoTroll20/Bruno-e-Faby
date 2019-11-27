@@ -195,11 +195,11 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/JGDRN1.mp4?attachment=true
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMQSEDPLA.mp4?attachment=true
 
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/08/14/16/00/5320567.jpg" group-title="Filmes", it capitulo 2
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ITCAP2.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
-link
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/23/16/16/5129967.jpg" group-title="Filmes", projeto gemini legendado
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/PRJTGMNILEG.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
 link
