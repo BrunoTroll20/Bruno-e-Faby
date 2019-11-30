@@ -201,5 +201,32 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/ITCAP2.mp4?attachment=true
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/23/16/16/5129967.jpg" group-title="Filmes", projeto gemini legendado
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/PRJTGMNILEG.mp4?attachment=true
 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/28/13/23/5639329.jpg" group-title="Filmes", Se a Rua Beale Falasse
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/SEARUAFLSE.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/86/95/83/19870520.jpg" group-title="Filmes", O Caçador de Pipas
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OCACDRDPIPS.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
+link
+
+#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
+link
+
 #EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
 link
