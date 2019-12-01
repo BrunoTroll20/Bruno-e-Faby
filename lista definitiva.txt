@@ -207,8 +207,8 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/SEARUAFLSE.mp4?attachment=true
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/86/95/83/19870520.jpg" group-title="Filmes", O Caçador de Pipas
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/OCACDRDPIPS.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
-link
+#EXTINF:-1 tvg-logo="v" group-title="Filmes", invasão ao serviço secreto leg
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/INVSAOSRVSCRTOLEG.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
 link
