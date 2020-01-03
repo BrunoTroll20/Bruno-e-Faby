@@ -140,6 +140,15 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/RVDLT04EP05.mp4?attachment=true
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", Riverdale s04e06
 http://cdnfe2.azureedge.net/RCServer13/ondemand/RVDLT04EP06.mp4?attachment=true
 
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", riverdale s04e07
+http://cdnfe3.azureedge.net/RCServer08/ondemand/RVDLT04EP08.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", Riverdale s04e08
+https://d32ynor41oz58z.cloudfront.net/RCServer08/ondemand/RVDLT04EP08.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", Riverdale s04e09
+https://d32ynor41oz58z.cloudfront.net/RCServer08/ondemand/RVDLT04EP09.mp4?attachment=true
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg" group-title="alguns canais", fox
 blob:https://canaisgratis.org/c4ca7995-acde-4c44-92aa-2f3259bd550b
 
@@ -231,13 +240,6 @@ link
 #EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
 link
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", riverdale s04e07
-http://cdnfe3.azureedge.net/RCServer08/ondemand/RVDLT04EP08.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", Riverdale s04e08
-https://d32ynor41oz58z.cloudfront.net/RCServer08/ondemand/RVDLT04EP08.mp4?attachment=true
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", Riverdale s04e09
-https://d32ynor41oz58z.cloudfront.net/RCServer08/ondemand/RVDLT04EP09.mp4?attachment=true
 
 
