@@ -198,8 +198,8 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMQSEDPLA.mp4?attachment=true
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/08/14/16/00/5320567.jpg" group-title="Filmes", it capitulo 2
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ITCAP2.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/23/16/16/5129967.jpg" group-title="Filmes", projeto gemini legendado
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/PRJTGMNILEG.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/23/16/16/5129967.jpg" group-title="Filmes", projeto gemini 
+https://d32ynor41oz58z.cloudfront.net/RCFServer3/ondemand/PRJTGMNI.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/28/13/23/5639329.jpg" group-title="Filmes", Se a Rua Beale Falasse
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/SEARUAFLSE.mp4?attachment=true
@@ -213,8 +213,8 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/INVSAOSRVSCRTOLEG.mp4?attachment
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/03/28/14/21/5782207.jpg" group-title="Filmes", o mustang
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/THMSTNG.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
-link
+#EXTINF:-1 tvg-logo="https://jornalggn.com.br/sites/default/files/2020/01/coringa1.jpg" group-title="Filmes", coringa
+https://d32ynor41oz58z.cloudfront.net/RCFServer3/ondemand/CRNGA.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="imagem" group-title="Filmes", titulo
 link
@@ -233,3 +233,11 @@ link
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", riverdale s04e07
 http://cdnfe3.azureedge.net/RCServer08/ondemand/RVDLT04EP08.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", Riverdale s04e08
+https://d32ynor41oz58z.cloudfront.net/RCServer08/ondemand/RVDLT04EP08.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg" group-title="riverdale", Riverdale s04e09
+https://d32ynor41oz58z.cloudfront.net/RCServer08/ondemand/RVDLT04EP09.mp4?attachment=true
+
+
